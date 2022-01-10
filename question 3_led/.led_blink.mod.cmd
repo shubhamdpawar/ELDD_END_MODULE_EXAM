@@ -1,0 +1,1 @@
+cmd_/home/shubham/Documents/ELDD/end_exam/timer_jiffies/led_blink.mod := { echo  /home/shubham/Documents/ELDD/end_exam/timer_jiffies/led_blink.o;  echo; } > /home/shubham/Documents/ELDD/end_exam/timer_jiffies/led_blink.mod
