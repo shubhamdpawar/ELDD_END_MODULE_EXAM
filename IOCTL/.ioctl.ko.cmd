@@ -1,0 +1,1 @@
+cmd_/home/shubham/Documents/ELDD/end_exam/IOCTL/ioctl.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/shubham/Documents/ELDD/end_exam/IOCTL/ioctl.ko /home/shubham/Documents/ELDD/end_exam/IOCTL/ioctl.o /home/shubham/Documents/ELDD/end_exam/IOCTL/ioctl.mod.o;  true
